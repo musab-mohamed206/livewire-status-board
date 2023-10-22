@@ -1,5 +1,5 @@
 {
-    "name": "musab-mohamed206/livewire-status-board",
+    "name": "asantibanez/livewire-status-board",
     "description": "Livewire component to show models/data according to its current status",
     "keywords": [
         "asantibanez",
@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "php": "^8.0|^8.1.17",
-        "illuminate/support": "^8.0|^8.1.17",
+        "php": "8.0|^8.1.17",
+        "illuminate/support": "^8.0|^9.0",
         "livewire/livewire": "^1.0|^2.0"
     },
     "require-dev": {
@@ -50,11 +50,5 @@
                 "LivewireStatusBoard": "Asantibanez\\LivewireStatusBoard\\LivewireStatusBoardFacade"
             }
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/musab-mohamed206/livewire-status-board"
-        }
-    ]
+    }
 }
