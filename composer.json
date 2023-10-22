@@ -5,13 +5,13 @@
         "asantibanez",
         "livewire-status-board"
     ],
-    "homepage": "https://github.com/musab-mohamed206/livewire-status-board",
+    "homepage": "https://github.com/asantibanez/livewire-status-board",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "musab mohamed",
-            "email": "musab.mohamed206@gmail.com",
+            "name": "Andrés Santibáñez",
+            "email": "santibanez.andres@gmail.com",
             "role": "Developer"
         }
     ],
